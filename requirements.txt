@@ -1,13 +1,5 @@
 numpy==1.21.2
-keras_nightly==2.5.0.dev2021032900
-tensorflow==2.6.0
-imutils==0.5.4
 comtypes==1.1.10
-requests==2.26.0
 mediapipe==0.8.6
 opencv_python==4.5.3.56
 pycaw==20181226
-autopy==4.0.0
-keras==2.6.0
-keras_squeezenet==0.4
-Pillow==8.3.2
